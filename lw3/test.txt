@@ -1,0 +1,36 @@
+Font: Serif, Sans-Serif, Lucida Console, Cursive
+Inscription: Normal, Italics, Bold, Bold Italics
+Size: 1, 16, 4000
+Text color: Black, White, Red, Yellow
+Underline: Yes, No
+Underline color: No, Black, Green, Yellow
+Strikethrough: Yes, No
+Double strikethrough: Yes, No
+Superscript: Yes, No
+Subscript: Yes, No
+Shift: -100, -1, 0, 1, 100
+Small caps: Yes, No
+All uppercase: Yes, No
+Align characters: Yes, No
+
+IF [Underline] = "No" THEN [Underline color] = "No";
+
+IF [Strikethrough] = "Yes" THEN [Double strikethrough] = "No";
+
+IF [Double strikethrough] = "Yes" THEN [Strikethrough] = "No";
+
+IF [Superscript] = "Yes" THEN [Subscript] = "No";
+
+IF [Subscript] = "Yes" THEN [Superscript] = "No";
+
+IF [Shift] < 0 THEN [Subscript] = "Yes";
+
+IF [Shift] > 0 THEN [Superscript] = "Yes";
+
+IF [Shift] = 0 THEN [Subscript] = "No";
+
+IF [Shift] = 0 THEN [Superscript] = "No";
+
+IF [Small caps] = "Yes" THEN [All uppercase] = "No";
+
+IF [All uppercase] = "Yes" THEN [Small caps] = "No";

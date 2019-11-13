@@ -1,0 +1,29 @@
+Font	Inscription	Size	Text color	Underline	Underline color	Strikethrough	Double strikethrough	Superscript	Subscript	Shift	Small caps	All uppercase	Align characters
+Sans-Serif	Bold Italics	1	White	Yes	Green	No	No	No	No	0	Yes	No	No
+Cursive	Normal	16	Red	Yes	Black	No	Yes	No	Yes	-100	No	Yes	Yes
+Serif	Italics	4000	Yellow	No	No	No	Yes	No	No	0	No	No	Yes
+Sans-Serif	Bold	4000	Black	Yes	Yellow	Yes	No	No	Yes	-1	No	Yes	Yes
+Lucida Console	Bold	16	Yellow	Yes	Yellow	No	Yes	No	Yes	-100	Yes	No	No
+Lucida Console	Normal	1	White	No	No	Yes	No	No	Yes	-1	No	Yes	No
+Serif	Italics	16	Red	Yes	Black	Yes	No	Yes	No	100	No	Yes	No
+Sans-Serif	Normal	1	Black	Yes	Green	No	Yes	Yes	No	1	Yes	No	Yes
+Cursive	Bold Italics	4000	Yellow	Yes	Yellow	No	Yes	Yes	No	100	Yes	No	Yes
+Cursive	Bold	1	Yellow	Yes	Black	Yes	No	No	No	0	No	Yes	No
+Serif	Bold Italics	4000	White	Yes	Green	Yes	No	No	Yes	-100	No	Yes	Yes
+Sans-Serif	Italics	16	Black	No	No	No	Yes	No	Yes	-100	Yes	No	No
+Lucida Console	Bold	4000	White	Yes	Black	Yes	No	Yes	No	1	No	Yes	No
+Serif	Bold	1	White	No	No	No	Yes	Yes	No	100	Yes	No	Yes
+Serif	Bold Italics	16	Black	Yes	Black	No	Yes	No	Yes	-1	Yes	No	Yes
+Cursive	Italics	16	Yellow	Yes	Green	No	Yes	No	Yes	-1	Yes	No	Yes
+Sans-Serif	Italics	1	Yellow	Yes	Yellow	No	Yes	Yes	No	1	Yes	No	No
+Lucida Console	Normal	4000	Red	Yes	Yellow	Yes	No	No	No	0	Yes	No	Yes
+Cursive	Bold Italics	16	Black	Yes	No	No	No	No	No	0	No	Yes	No
+Sans-Serif	Bold	16	Red	Yes	Green	No	Yes	Yes	No	1	No	Yes	No
+Lucida Console	Normal	4000	Black	Yes	Green	No	Yes	Yes	No	100	No	No	No
+Lucida Console	Italics	1	Red	No	No	Yes	No	Yes	No	1	No	Yes	Yes
+Cursive	Italics	16	White	Yes	Yellow	No	Yes	Yes	No	1	No	Yes	No
+Serif	Normal	4000	Yellow	Yes	Yellow	No	Yes	Yes	No	1	No	Yes	No
+Sans-Serif	Bold Italics	4000	Red	Yes	Black	No	No	No	Yes	-1	No	No	Yes
+Cursive	Bold Italics	1	Red	No	No	No	Yes	Yes	No	1	No	Yes	No
+Sans-Serif	Bold	4000	Black	No	No	No	No	Yes	No	100	No	No	Yes
+Lucida Console	Bold Italics	1	Red	Yes	Green	No	Yes	No	Yes	-100	Yes	No	Yes
